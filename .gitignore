@@ -1,0 +1,4 @@
+# 드라이런 페이지는 공개 사이트에 올리지 않음
+d/dryrun-*/
+.DS_Store
+Thumbs.db
